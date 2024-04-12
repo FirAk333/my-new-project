@@ -8,12 +8,12 @@ Final project for the Building AI course
 
 ## Summary
 
-AI for Health is a virtual health assistant that uses AI to provide personalized health recommendations and support, empowering users to improve their well-being and achieve their health goals effectively and easy. 
+AI for Health is a virtual health assistant that uses AI to provide personalized health recommendations and support, empowering users to improve their well being and achieve their health goals effectively and easy. 
 
 
 ## Background
 
-AI for Health addresses the challenge of maintaining a healthy lifestyle in today's fast-paced world by offering personalized health guidance and support. 
+AI for Health addresses the challenge of maintaining a healthy lifestyle in todays fast paced world by offering personalized health guidance and support. 
 
 This problem is common globally due to:
 * busy schedules 
@@ -23,7 +23,7 @@ This problem is common globally due to:
 My personal motivation comes from a desire to leverage technology to improve healthcare accessibility and empower individuals to take proactive control of their health. 
 
 This topic is important as it directly impacts individuals:
-* overall well-being
+* overall well being
 * productivity
 * longevity
 
@@ -32,11 +32,11 @@ Making it both relevant and significant in todays society.
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+Users interact with AI for Health through a mobile app or web platform, accessing personalized health recommendations and support at their convenience. The solution is needed in situations where individuals seek guidance to improve their health and wellness, such as managing chronic conditions, setting health goals or adopting healthier lifestyle habits. Users range from individuals with specific health concerns to those simply looking to maintain or improve their overall well being. Needs to consider include diverse health goals, dietary preferences, activity levels and accessibility preferences.
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+![Cat]([https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg](https://media.istockphoto.com/id/1483013789/sv/foto/ai-artificial-intelligence-robot-and-human-hands-are-touching-and-connecting-unity-with-human.jpg?s=1024x1024&w=is&k=20&c=h-_HfagsNRO7PlcdbJFbfBIWjgDO54idGLmFRMY_ves=))
 
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
