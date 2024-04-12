@@ -14,10 +14,12 @@ AI for Health is a virtual health assistant that uses AI to provide personalized
 ## Background
 
 AI for Health addresses the challenge of maintaining a healthy lifestyle in today's fast-paced world by offering personalized health guidance and support. 
+
 This problem is common globally due to:
 * busy schedules 
 * lack of access to personalized health information 
 * difficulty of sticking to traditional healthcare plans. 
+
 My personal motivation comes from a desire to leverage technology to improve healthcare accessibility and empower individuals to take proactive control of their health. 
 This topic is important as it directly impacts individuals:
 * overall well-being
