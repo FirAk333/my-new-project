@@ -45,8 +45,6 @@ The data for AI for comes from various sources, including user input like health
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
-
 AI for Health does not solve medical emergencies or replace professional medical advice or diagnosis. It also may not address complex health issues requiring specialized medical treatment. Limitations include potential inaccuracies in AI driven recommendations, privacy concerns related to handling sensitive health data and the risk of over reliance on technology for health management. Ethical considerations include ensuring user consent and data privacy, minimizing bias in AI algorithms and transparently communicating the limitations of the solution to users. Additionally equitable access to the solution and addressing potential disparities in healthcare access should be prioritized.
 
 ## What next?
@@ -55,8 +53,11 @@ This project has the potential to grow by expanding its capabilities to include 
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+Sources of inspiration:
+
+* Elon Musk
+* Bill Gates
+* Jeff Bezos
+* Thomas Frist Jr
+* Dilip Shanghvi
+* Cyrus Poonawalla 
