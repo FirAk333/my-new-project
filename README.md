@@ -43,23 +43,15 @@ Users interact with AI for Health through a mobile app or web platform, accessin
 
 The data for AI for comes from various sources, including user input like health goals, dietary preferences and activity levels. Data also comes from medical databases, wearable devices and health related articles and research papers. Some data may be collected directly by the project team while others may be sourced from third party providers or publicly available datasets ensuring a comprehensive and accurate representation of health information.
 
-
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
 ## Challenges
 
 What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
 
+AI for Health does not solve medical emergencies or replace professional medical advice or diagnosis. It also may not address complex health issues requiring specialized medical treatment. Limitations include potential inaccuracies in AI driven recommendations, privacy concerns related to handling sensitive health data and the risk of over reliance on technology for health management. Ethical considerations include ensuring user consent and data privacy, minimizing bias in AI algorithms and transparently communicating the limitations of the solution to users. Additionally equitable access to the solution and addressing potential disparities in healthcare access should be prioritized.
+
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
+This project has the potential to grow by expanding its capabilities to include predictive analytics for early disease detection, integration with electronic health records for seamless information sharing with healthcare providers and partnerships with fitness and wellness organizations to offer holistic health solutions. To move forward additional skills in machine learning, data analytics, software development and healthcare domain expertise would be beneficial. Collaboration with medical professionals, researchers and industry experts would also be essential to ensure the accuracy, effectiveness and ethical implementation of the solution. Funding and support from stakeholders like healthcare organizations, investors and government agencies would be necessary to scale the project and reach a wider audience.
 
 ## Acknowledgments
 
