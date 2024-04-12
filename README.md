@@ -36,7 +36,7 @@ Users interact with AI for Health through a mobile app or web platform, accessin
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat]([https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg](https://media.istockphoto.com/id/1483013789/sv/foto/ai-artificial-intelligence-robot-and-human-hands-are-touching-and-connecting-unity-with-human.jpg?s=1024x1024&w=is&k=20&c=h-_HfagsNRO7PlcdbJFbfBIWjgDO54idGLmFRMY_ves=))
+![Cat](https://www.istockphoto.com/se/foto/framtida-robot-och-cyborg-f%C3%B6r-artificiell-intelligens-gm1245971928-363133073)
 
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
