@@ -2,23 +2,28 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# AI for Health
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+AI for Health is a virtual health assistant that uses AI to provide personalized health recommendations and support, empowering users to improve their well-being and achieve their health goals effectively and easy. 
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+AI for Health addresses the challenge of maintaining a healthy lifestyle in today's fast-paced world by offering personalized health guidance and support. 
+This problem is common globally due to:
+* busy schedules 
+* lack of access to personalized health information 
+* difficulty of sticking to traditional healthcare plans. 
+My personal motivation comes from a desire to leverage technology to improve healthcare accessibility and empower individuals to take proactive control of their health. 
+This topic is important as it directly impacts individuals:
+* overall well-being
+* productivity
+* longevity
+Making it both relevant and significant in todays society.
 
 
 ## How is it used?
