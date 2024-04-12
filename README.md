@@ -21,10 +21,12 @@ This problem is common globally due to:
 * difficulty of sticking to traditional healthcare plans. 
 
 My personal motivation comes from a desire to leverage technology to improve healthcare accessibility and empower individuals to take proactive control of their health. 
+
 This topic is important as it directly impacts individuals:
 * overall well-being
 * productivity
 * longevity
+
 Making it both relevant and significant in todays society.
 
 
